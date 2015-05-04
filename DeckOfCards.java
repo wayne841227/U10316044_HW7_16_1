@@ -1,9 +1,6 @@
 
 public class DeckOfCards {
-	public static void main(String[] args) {
-  
-  	}
-  
+	
 	int[] deal(){
     
 	    int[] Four = new int[4];
@@ -40,3 +37,4 @@ public class DeckOfCards {
   
 
 }
+
